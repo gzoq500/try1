@@ -1,0 +1,8 @@
+luck
+snow
+hard
+cost
+scan
+seed
+vest
+grid
