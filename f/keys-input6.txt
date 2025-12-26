@@ -1,0 +1,8 @@
+year
+link
+hash
+cash
+silo
+root
+pool
+base
